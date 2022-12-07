@@ -32,7 +32,7 @@ pip3 install -r requestments.txt
 
 ### Train
 
-在进入目录后，修改数据集路劲，输入以下命令。
+在进入目录后，修改数据集路径，输入以下命令。
 
 ```bash
 python train.py
