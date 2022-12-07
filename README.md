@@ -16,7 +16,7 @@
 ### Install
 
 ```
-git clone https://github.com/
+git clone https://github.com/AubreyFeng/Classification-of-flowers.git
 cd ai
 pip3 install -r requestments.txt
 ```
