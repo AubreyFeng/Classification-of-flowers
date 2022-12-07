@@ -20,7 +20,7 @@
 
 ```
 git clone https://github.com/AubreyFeng/Classification-of-flowers.git
-cd ai
+cd Classification-of-flowers.git
 pip3 install -r requestments.txt
 ```
 
