@@ -1,6 +1,6 @@
 # 人工智能课程设计 *五种花进行分类*
 
-1. 使用VGGNet、GoogleNet、ResNet、DenseNet、EfficientNet和数据集中80%的数据训练识别模型，并对剩下20%的数据集进行测试 ；
+1. 使用VGGNet、GoogLeNet、ResNet、DenseNet、EfficientNet和数据集中80%的数据训练识别模型，并对剩下20%的数据集进行测试 ；
 2. 使用不同的评价指标（如accuracy、precision、recall等）对各种算法进行评价；
 3. 鼓励基于现有的算法提出改进，进一步提高算法的性能。
 
