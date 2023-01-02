@@ -30,6 +30,10 @@ pip3 install -r requestments.txt
 
 [https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
 
+### 预权重文件下载
+
+[预权重文件](https://github.com/AubreyFeng/Classification-of-flowers/releases/tag/%E9%A2%84%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6)
+
 ### Train
 
 在进入目录后，修改数据集路径，输入以下命令。
